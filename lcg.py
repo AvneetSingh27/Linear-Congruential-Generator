@@ -1,4 +1,5 @@
 import math
+import random
 
 def prime_factors(n):
     factors=[]
@@ -52,10 +53,10 @@ def lcg(x0,a,c,m):
 
 
 if __name__ == '__main__':
-    x0=int(input('Enter Seed value: '))
     a=int(input('Enter multiplier: '))
     c=int(input('Enter increment: '))
     m=int(input('Enter modulus param: '))
+    x0=random.randint(0,m-1)
     if m < 0 or a >= m or a <= 0 or c >= m or c < 0:
         print('Wrong Input, Please Follow the constraints')
     else:
