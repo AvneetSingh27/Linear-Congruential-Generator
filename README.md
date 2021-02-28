@@ -2,7 +2,7 @@
 > Psuedo Random Number Generator
 
 _Linear Congruence Relation :-_
-#### Xi = (aXi-1 + c)mod m
+**Xi = (aXi-1 + c)mod m**
 
 - a: multiplier parameter
 - c: increment parameter
