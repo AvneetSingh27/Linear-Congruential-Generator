@@ -11,7 +11,8 @@ _Linear Congruence Relation :-_
 
 
 ***
-###### Mathematics Part 
+###### Mathematics Part
+
 for eg:
 
 a=5,c=2,m=123,X0=73
