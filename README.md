@@ -1,5 +1,5 @@
-# Linear-Congruential-Generator
- Psuedo Random Number Generator
+# [Linear-Congruential-Generator](https://en.wikipedia.org/wiki/Linear_congruential_generator)
+> Psuedo Random Number Generator
 
 _Linear Congruence Relation :-_
 #### Xi = (aXi-1 + c)mod m
