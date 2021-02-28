@@ -10,9 +10,9 @@ def lcg(x0,a,c,m):
 
 
 if __name__ == '__main__':
-    x0=int(input('Enter Seed value'))
-    a=int(input('Enter multiplier'))
-    c=int(input('Enter increment'))
-    m=int(input('Enter modulus param'))
+    x0=int(input('Enter Seed value: '))
+    a=int(input('Enter multiplier: '))
+    c=int(input('Enter increment: '))
+    m=int(input('Enter modulus param: '))
 
     lcg(x0,a,c,m)
